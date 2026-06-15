@@ -6,7 +6,7 @@
 
 Found something broken? I want to know about it.
 
-[Open a bug report](https://github.com/jsrothwell/Warren-support/issues/new?template=bug_report.md) and include as much of the following as you can:
+[Open a bug report](https://github.com/jsrothwell/flo-support/issues/new?template=bug_report.md) and include as much of the following as you can:
 
 * **Device** (e.g. iPhone 15, MacBook Pro)
 * **App** (habitFlo,orgFlo,workFlo,jobFlo,scanFlo)
